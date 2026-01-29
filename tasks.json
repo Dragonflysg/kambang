@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": "demo-1",
+      "title": "Welcome to your Kanban Board!",
+      "description": "Drag this card to 'DOING' to start, then to 'DONE' when complete. Click the edit or delete buttons to modify tasks.",
+      "column": "doing",
+      "priority": "medium",
+      "created_at": "2025-01-29T10:00:00",
+      "updated_at": "2026-01-29T10:19:42.550071"
+    },
+    {
+      "id": "demo-2",
+      "title": "Try adding a new task",
+      "description": "Click the 'Add Task' button in the header to create your first task.",
+      "column": "todo",
+      "priority": "high",
+      "created_at": "2025-01-29T10:00:00",
+      "updated_at": "2026-01-29T10:22:27.257202"
+    },
+    {
+      "id": "84dee424-efb6-41fe-a0e7-e3282285703d",
+      "title": "test",
+      "description": "test",
+      "column": "done",
+      "priority": "medium",
+      "created_at": "2026-01-29T10:17:15.152899",
+      "updated_at": "2026-01-29T10:20:09.496492"
+    }
+  ],
+  "columns": [
+    "todo",
+    "doing",
+    "done"
+  ]
+}
